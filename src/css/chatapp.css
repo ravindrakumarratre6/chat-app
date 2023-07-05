@@ -1,0 +1,26 @@
+
+.container{
+    text-align: center;
+    width: 100%;
+}
+
+.input-box{
+    padding: 10px;
+
+}
+
+.like-container{
+    margin: 5px 0 5px 0;
+    padding: 10px;
+}
+
+.like-massage{
+    margin: 10px;
+}
+.like-massage button {
+    margin-left: 5px;
+}
+
+.like-massage button:hover{
+    color:red;
+}
